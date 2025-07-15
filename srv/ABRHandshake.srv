@@ -1,0 +1,6 @@
+string role
+int32 msg_type
+string msg_json
+---
+bool success
+string response_msg
